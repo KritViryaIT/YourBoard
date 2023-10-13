@@ -1,8 +1,8 @@
 # An Admin Dashboard App 
 
-A smart admin dashboard featuring the required stats for you businesses.
+A smart admin dashboard featuring the required stats for your business.
 Featuring a fully responsive and customisable easy to grasp layout.
-
+Compatible with mobile-browsers.
 
 Featureing :-
 
